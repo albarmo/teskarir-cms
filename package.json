@@ -1,0 +1,33 @@
+{
+  "name": "teskarir-cms",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@editorjs/editorjs": "^2.19.1",
+    "@feedloop/qore-client": "^0.1.29",
+    "@feedloop/qore-react": "^0.1.29",
+    "Dante2": "^0.5.0-rc4",
+    "file-saver": "^2.0.5",
+    "html-react-parser": "^1.2.4",
+    "js-cookie": "^2.2.1",
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-dropzone-uploader": "^2.11.0",
+    "react-export-excel": "^0.5.3",
+    "react-html-table-to-excel": "^2.0.0",
+    "react-images-uploading": "^3.1.2",
+    "react-quill": "^2.0.0-beta.2",
+    "react-summernote": "^2.0.2",
+    "sweetalert2": "^10.14.0",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "@feedloop/qore-cli": "^0.1.28"
+  }
+}
